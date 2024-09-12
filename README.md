@@ -8,7 +8,7 @@
 
 <h3 align="left">Some of my works:</h3>
 <h4 align="left">Glamorous Faces By ST</h4>
-![Glamorous-faces-by-ST-Icon.jpg](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/Glamorous-faces-by-ST-Icon.jpg)
+<div width="30%; height="30%">![Glamorous-faces-by-ST-Icon.jpg](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/Glamorous-faces-by-ST-Icon.jpg)</div>
 <h4 align="left">Aer Homepage</h4>
 <h4 align="left">Keza Africa</h4>
 
