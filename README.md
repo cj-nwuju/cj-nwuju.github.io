@@ -8,6 +8,8 @@
 
 <h3 align="left">Some of my works:</h3>
 <h4 align="left">Glamorous Faces By ST</h4>
+![gfbst](portfolio/Glamorous-faces-by-ST-Icon.jpg)
+![gfbst](Glamorous-faces-by-ST.jpg)
 <h4 align="left">Aer Homepage</h4>
 <h4 align="left">Keza Africa</h4>
 
