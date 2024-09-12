@@ -1,4 +1,4 @@
-![ezgif com-optimize](https://github.com/cj-nwuju/cj-nwuju/assets/138463782/b28aeb8f-bbf3-4208-9adb-5c6f437396d1)
+ ![ezgif com-optimize](https://github.com/cj-nwuju/cj-nwuju/assets/138463782/b28aeb8f-bbf3-4208-9adb-5c6f437396d1)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+CJ+Nwuju!;"/>
@@ -8,8 +8,7 @@
 
 <h3 align="left">Some of my works:</h3>
 <h4 align="left">Glamorous Faces By ST</h4>
-![Glamorous-faces-by-ST-Icon.jpg](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/Glamorous-faces-by-ST-Icon.jpg))
-!
+![Glamorous-faces-by-ST-Icon.jpg](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/Glamorous-faces-by-ST-Icon.jpg)
 <h4 align="left">Aer Homepage</h4>
 <h4 align="left">Keza Africa</h4>
 
