@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+CJ+Nwuju!;"/>
 </h1>
 
-<h3 align="center">An Passionate Graphic Designer</h3>
+<h3 align="center">A Passionate Graphic Designer</h3>
 
 <h3 align="left">Some of my works:</h3>
 <h4 align="left">Glamorous Faces By ST</h4>
