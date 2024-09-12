@@ -1,4 +1,3 @@
-### CJ's Portfolio
 ![ezgif com-optimize](https://github.com/cj-nwuju/cj-nwuju/assets/138463782/b28aeb8f-bbf3-4208-9adb-5c6f437396d1)
 
 <h1 align="center">
