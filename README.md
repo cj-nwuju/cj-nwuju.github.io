@@ -1,41 +1,36 @@
- ![ezgif com-optimize](https://github.com/cj-nwuju/cj-nwuju/assets/138463782/b28aeb8f-bbf3-4208-9adb-5c6f437396d1)
+# Creative Designer Portfolio
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+CJ+Nwuju!;"/>
-</h1>
+Welcome to my portfolio repository! This is a showcase of my design work, including UI/UX design, branding, illustrations, and other creative projects.
 
-<h3 align="center">A Passionate Graphic Designer</h3>
+## About Me
 
-<h3 align="left">Some of my works:</h3>
-<h4 align="left">Aer Homepage</h4>
- ![aer homepage](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/Aer%20homepage-1540%20by%20930.png)
-<h4 align="left">Keza Africa</h4>
- ![keza](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/Copy%20of%20keza--you-matter.jpg)
- ![keza](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/Copy%20of%20keza--zenith-bank-2.jpg)
- ![keza](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/keza--email-header-3.jpg)
-<h4 align="left">More</h4>
- ![more](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/tag-bible-talk-don't-look-back.jpg)
- ![more1](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/licc---1cor10v3-tpt.jpg)
- ![more2](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/real-estate-tips.jpg)
- ![more3](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/licc-men's-midweek-2.jpg)
- ![more4](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/ivory-cream-product-flyer.png)
- ![more5](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/Elvaridah%20profile.pdf)
- ![more6](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/Master%20Pitch%20deck.pdf)
- ![more7](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/real-estate-tips.jpg)
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,sqlite,git"/><br/>
-    <img src="https://skillicons.dev/icons?i=mysql,flask,html,css,vscode,figma,xd,photoshop,illustrator"/>
-  </a>
-</div>
+I am a passionate **Creative Designer** with a strong focus on crafting engaging, functional, and visually appealing designs. My expertise spans across various design disciplines such as web design, graphic design, and branding. I love pushing the boundaries of creativity while solving real-world design problems.
 
+## What You’ll Find
 
-<h3>Connect with me:</h3>
-<p>
-<a href="https://twitter.com/cj_nwuju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cj_nwuju" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cjnwuju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cjnwuju" height="30" width="40" /></a>
-<a href="https://instagram.com/cj_nwuju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cj_nwuju" height="30" width="40" /></a>
-</p>
+This repository contains a selection of my work across different categories:
+- **UI/UX Design**: User-centered design projects focusing on usability, interaction, and aesthetics.
+- **Graphic Design**: Logos, posters, illustrations, and visual assets created for clients or personal projects.
+- **Web Design**: Fully responsive and accessible website designs, showcasing my ability to blend functionality with creative flair.
+  
+Each project folder contains:
+1. **Project Overview**: Brief description of the project goals, approach, and outcome.
+2. **Design Assets**: Screenshots, wireframes, or links to the live project (where applicable).
+3. **Process**: Insights into my design thinking and the steps taken from concept to final product.
 
-- 📫 You can reach me through <a href="mailto:cjnwuju155@gmail.com" align="down"><img src="https://img.shields.io/badge/Gmail-112?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/></a>
+## Tools & Skills
+Here are some of the tools and technologies I commonly use:
+- **Adobe Creative Suite** (Photoshop, Illustrator, InDesign)
+- **Figma / Sketch** (UI/UX design)
+- **Procreate** (Illustration)
+- **HTML/CSS** (Web Design)
+
+## How to Navigate
+- **/assets**: Contains images and visuals used in the portfolio.
+- **/projects**: Organized folders containing individual project files and descriptions.
+
+## Contact
+Feel free to reach out if you have any questions or would like to collaborate:
+- Email: [cjnwuju155@gmail.com](mailto:cjnwuju155@gmail.com)
+- LinkedIn: [Chukwudi Nwuju](https://www.linked.com/in/cjnwuju)
+- Portfolio: [CJ's Portfolio](https://cj-nwuju.github.io/)
