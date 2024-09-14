@@ -8,20 +8,20 @@
 
 <h3 align="left">Some of my works:</h3>
 <h4 align="left">Aer Homepage</h4>
-![aer homepage](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/Aer%20homepage-1540%20by%20930.png)
+ ![aer homepage](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/Aer%20homepage-1540%20by%20930.png)
 <h4 align="left">Keza Africa</h4>
-![keza](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/Copy%20of%20keza--you-matter.jpg)
-![keza](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/Copy%20of%20keza--zenith-bank-2.jpg)
-![keza](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/keza--email-header-3.jpg)
+ ![keza](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/Copy%20of%20keza--you-matter.jpg)
+ ![keza](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/Copy%20of%20keza--zenith-bank-2.jpg)
+ ![keza](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/keza--email-header-3.jpg)
 <h4 align="left">More</h4>
-![more](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/tag-bible-talk-don't-look-back.jpg)
-![more1](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/licc---1cor10v3-tpt.jpg)
-![more2](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/real-estate-tips.jpg)
-![more3](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/licc-men's-midweek-2.jpg)
-![more4](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/ivory-cream-product-flyer.png)
-![more5](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/Elvaridah%20profile.pdf)
-![more6](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/Master%20Pitch%20deck.pdf)
-![more7](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/real-estate-tips.jpg)
+ ![more](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/tag-bible-talk-don't-look-back.jpg)
+ ![more1](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/licc---1cor10v3-tpt.jpg)
+ ![more2](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/real-estate-tips.jpg)
+ ![more3](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/licc-men's-midweek-2.jpg)
+ ![more4](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/ivory-cream-product-flyer.png)
+ ![more5](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/Elvaridah%20profile.pdf)
+ ![more6](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/Master%20Pitch%20deck.pdf)
+ ![more7](https://github.com/cj-nwuju/cj-nwuju.github.io/blob/main/portfolio/real-estate-tips.jpg)
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <a href="https://skillicons.dev">
