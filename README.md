@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Creative Designer Portfolio
 
 Welcome to my portfolio repository! This is a showcase of my design work, including UI/UX design, branding, illustrations, and other creative projects.
@@ -35,6 +34,3 @@ Feel free to reach out if you have any questions or would like to collaborate:
 - Email: [cjnwuju155@gmail.com](mailto:cjnwuju155@gmail.com)
 - LinkedIn: [Chukwudi Nwuju](https://www.linked.com/in/cjnwuju)
 - Portfolio: [CJ's Portfolio](https://cj-nwuju.github.io/)
-=======
-
->>>>>>> 5abf2ae78be478d29f2eca409d772b9d92287f30
