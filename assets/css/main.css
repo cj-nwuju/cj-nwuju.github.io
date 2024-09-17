@@ -2048,3 +2048,15 @@ input, select, textarea {
 		#footer .copyright a {
 			color: inherit;
 		}
+
+/* My picture */
+#cj {
+	width: 25%;
+	height: 25%;
+	border-radius: 2%;
+}
+
+.sections {
+	margin: 20px;
+	font-weight: 500;
+}
