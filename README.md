@@ -6,6 +6,18 @@ Welcome to my portfolio repository! This is a showcase of my design work, includ
 
 I am a passionate **Creative Designer** with a strong focus on crafting engaging, functional, and visually appealing designs. My expertise spans across various design disciplines such as web design, graphic design, and branding. I love pushing the boundaries of creativity while solving real-world design problems.
 
+<br>
+
+## Tools I use
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,sqlite,git"/><br/>
+    <img src="https://skillicons.dev/icons?i=mysql,flask,html,css,vscode,figma,xd,photoshop,illustrator"/>
+  </a>
+</div>
+<br>
+
 ## What You’ll Find
 
 This repository contains a selection of my work across different categories:
@@ -22,12 +34,11 @@ Each project folder contains:
 Here are some of the tools and technologies I commonly use:
 - **Adobe Creative Suite** (Photoshop, Illustrator, InDesign)
 - **Figma / Sketch** (UI/UX design)
-- **Procreate** (Illustration)
 - **HTML/CSS** (Web Design)
 
 ## How to Navigate
-- **/assets**: Contains images and visuals used in the portfolio.
-- **/projects**: Organized folders containing individual project files and descriptions.
+- **/images**: Contains images and visuals used in the portfolio.
+- **/assets**: Organized folders containing some individual project files.
 
 ## Contact
 Feel free to reach out if you have any questions or would like to collaborate:
